@@ -1,0 +1,84 @@
+.card1{
+	width: 263px;
+	border-radius: 10px;
+	background-color: #262d33;
+	text-align: center;
+}
+.title1-name{
+	color:  #939699;
+	text-transform:uppercase;
+}
+.text1-name{
+	color: white;
+	text-transform: uppercase;
+}
+.card2{
+	width: 263px;
+	border-radius: 10px;
+	background-color: #3dc47e;
+	text-align: center;
+}
+.title2-name{
+	color:  #d0f7c6;
+	text-transform:uppercase;
+}
+.text2-name{
+	color: white;
+	text-transform: uppercase;
+}
+.card3{
+	width: 263px;
+	border-radius: 10px;
+	background-color:  #4267b2;
+	text-align: center;
+}
+.title3-name{
+	color:  #bbc6ff;
+	
+}
+.text3-name{
+	color: white;
+	
+}
+.card4{
+	width: 263px;
+	border-radius: 10px;
+	background-color: #262d33;
+	text-align: center;
+}
+.title4-name{
+	color: #d9dadb;
+	
+}
+.text4-name{
+	color: white;
+	
+}
+.card5{
+	width: 263px;
+	border-radius: 10px;
+	background-color:  #4267b2;
+	text-align: center;
+}
+.title5-name{
+	color: white;
+	
+}
+.text5-name{
+	color: white;
+	
+}
+.card6{
+	width: 263px;
+	border-radius:20px;
+	background-color:  #d6393c;
+	
+}
+.title6-name{
+	color:  #ffc4c9;
+	
+}
+.text6-name{
+	color: white;
+	
+}
